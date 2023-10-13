@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "@babel/parser": "^7.21.2",
-    "@babel/traverse": "^7.21.2",
+    "@babel/traverse": "^7.23.2",
     "@docusaurus/logger": "3.0.0-alpha.0",
     "@docusaurus/utils": "3.0.0-alpha.0",
     "@docusaurus/utils-validation": "3.0.0-alpha.0",
