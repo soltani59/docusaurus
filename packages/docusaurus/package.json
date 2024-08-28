@@ -99,7 +99,7 @@
     "update-notifier": "^6.0.2",
     "url-loader": "^4.1.1",
     "wait-on": "^7.0.1",
-    "webpack": "^5.76.0",
+    "webpack": "^5.94.0",
     "webpack-bundle-analyzer": "^4.8.0",
     "webpack-dev-server": "^4.11.1",
     "webpack-merge": "^5.8.0",
