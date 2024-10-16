@@ -92,7 +92,7 @@
     "react-router-dom": "^5.3.4",
     "rtl-detect": "^1.0.4",
     "semver": "^7.3.8",
-    "serve-handler": "^6.1.5",
+    "serve-handler": "^6.1.6",
     "shelljs": "^0.8.5",
     "terser-webpack-plugin": "^5.3.7",
     "tslib": "^2.5.0",
