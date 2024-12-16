@@ -31,7 +31,7 @@
     "babel-loader": "^9.1.2",
     "clsx": "^1.2.1",
     "core-js": "^3.29.0",
-    "terser-webpack-plugin": "^5.3.7",
+    "terser-webpack-plugin": "^5.3.11",
     "tslib": "^2.5.0",
     "webpack": "^5.76.0",
     "webpack-merge": "^5.8.0",
