@@ -42,7 +42,7 @@
     "unified": "^10.1.2",
     "unist-util-visit": "^2.0.3",
     "url-loader": "^4.1.1",
-    "webpack": "^5.76.0"
+    "webpack": "^5.98.0"
   },
   "devDependencies": {
     "@docusaurus/types": "3.0.0-alpha.0",
