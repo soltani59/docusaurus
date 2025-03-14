@@ -22,7 +22,7 @@
     "docusaurus-migrate": "bin/index.mjs"
   },
   "dependencies": {
-    "@babel/core": "^7.20.12",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.20.2",
     "@docusaurus/logger": "3.0.0-alpha.0",
     "@docusaurus/utils": "3.0.0-alpha.0",
