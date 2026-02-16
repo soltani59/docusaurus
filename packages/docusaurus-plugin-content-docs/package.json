@@ -50,7 +50,7 @@
     "lodash": "^4.17.21",
     "tslib": "^2.5.0",
     "utility-types": "^3.10.0",
-    "webpack": "^5.76.0"
+    "webpack": "^5.98.0"
   },
   "devDependencies": {
     "@types/js-yaml": "^4.0.5",
